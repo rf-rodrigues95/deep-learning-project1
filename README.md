@@ -5,7 +5,7 @@
 **Group:** 
   - Ricardo Rodrigues (rf-rodrigues95)
   - Guilherme Antunes (gpantunes)
-  - David Castro (DavidJCastro)
+  - David Castro (DavidJCCastro)
 ---
 
 ## Overview
