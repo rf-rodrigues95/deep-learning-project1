@@ -4,8 +4,8 @@
 **Final Grade:** 16.7
 **Group:** 
   - Ricardo Rodrigues (rf-rodrigues95)
-  - Guilherme Antunes (Nsivaa)
-  - David (Nsivaa)
+  - Guilherme Antunes (gpantunes)
+  - David Castro (DavidJCastro)
 ---
 
 ## Overview
