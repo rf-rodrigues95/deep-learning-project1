@@ -1,5 +1,5 @@
 # Deep Learning Project: Pokémon Image Classification  
-**NOVA University of Lisbon – 2024/2025**  
+**NOVA School of Science and Technology (NOVA FCT) – 2024/2025**  
 
 ---
 
