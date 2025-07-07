@@ -19,3 +19,29 @@ This repository contains the code and final report for a Deep Learning project f
 /Task2/ # Jupyter notebooks and source code for CNN development
 /Task3/ # Jupyter notebooks and source code for transfer learning and fine-tuning
 /report/ # Final comprehensive report covering all tasks (PDF)
+
+
+Each task folder includes all related code and experiments for that stage. The `/report/` folder contains the final report summarizing methodology, results, and insights from all tasks.
+
+---
+
+## Project Description
+
+Resource optimization strategies such as early stopping, batch size tuning, and checkpointing were applied.
+
+### Task 1: Multilayer Perceptron (MLP) Classification
+- Data exploration and handling class imbalance  
+- MLP architecture design and training  
+- Performance evaluation
+
+### Task 2: Convolutional Neural Network (CNN) Development
+- CNN model design tailored to Pokémon images  
+- Training with techniques to reduce overfitting and class imbalance  
+- Performance comparison with MLP
+
+### Task 3: Transfer Learning and Fine-Tuning
+- Use of pre-trained models (ResNet)  
+- Fine-tuning with data augmentation and regularization  
+- Final performance evaluation and analysis
+
+---
