@@ -54,4 +54,5 @@ Resource optimization strategies such as early stopping, batch size tuning, and 
 - Final performance evaluation and analysis
 
 **https://www.kaggle.com/competitions/the-pokemon-are-in-there-task-3**
+
 ---
