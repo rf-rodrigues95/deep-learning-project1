@@ -39,14 +39,19 @@ Resource optimization strategies such as early stopping, batch size tuning, and 
 - MLP architecture design and training  
 - Performance evaluation
 
+**https://www.kaggle.com/competitions/the-pokemon-are-out-there-task-1**
+
 ### Task 2: Convolutional Neural Network (CNN) Development
 - CNN model design tailored to Pokémon images  
 - Training with techniques to reduce overfitting and class imbalance  
 - Performance comparison with MLP
+
+**https://www.kaggle.com/competitions/the-pokemon-are-out-there-task-2**
 
 ### Task 3: Transfer Learning and Fine-Tuning
 - Use of pre-trained models (ResNet)  
 - Fine-tuning with data augmentation and regularization  
 - Final performance evaluation and analysis
 
+**https://www.kaggle.com/competitions/the-pokemon-are-in-there-task-3**
 ---
