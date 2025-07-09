@@ -1,7 +1,7 @@
 # Deep Learning Project: Pokémon Image Classification  
 **NOVA School of Science and Technology (NOVA FCT) – 2024/2025**  
 **Course:** Deep Learning  
-**Final Grade:** 16.7
+**Final Grade:** 16.7  
 **Group:** 
   - Ricardo Rodrigues (rf-rodrigues95)
   - Guilherme Antunes (gpantunes)
